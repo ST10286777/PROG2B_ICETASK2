@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PROG2BIceTask2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce70aaaed5d6ae22adc76a40fb4ccc436bb010d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a70c18119f5bf0b5b32a8bc8f9bb13dc836df111")]
 [assembly: System.Reflection.AssemblyProductAttribute("PROG2BIceTask2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PROG2BIceTask2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
